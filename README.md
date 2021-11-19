@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lakshya-Coder
 - 👀 I’m interested in Developement
 - 🌱 I’m currently learning Android Developement
-- 📫 How to reach me ...
+- My linkedin profile: https://www.linkedin.com/in/lakshya-seth-84a309202/
 
 <!---
 Lakshya-Coder/Lakshya-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
