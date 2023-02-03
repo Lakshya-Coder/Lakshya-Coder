@@ -1,5 +1,5 @@
 # 💫 About Me:
-**`Digital Craftsman (Developer)`**
+**`Digital Craftsman (Developer)`**<br>
 I'm an android Developer and created games in unity. All coding projects are built from the ground up, from planning and designing.
 
 
