@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an android Developer and created games in unity. All coding projects are<br>built from the ground up, from planning and designing.
+I'm an android Developer and created games in unity. All coding projects are built from the ground up, from planning and designing.
 
 
 ## 🌐 Socials:
